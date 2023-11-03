@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["checkpoint_sequence_number","epoch","id","move_function","move_module","move_package","star","transaction_sequence_number"]};

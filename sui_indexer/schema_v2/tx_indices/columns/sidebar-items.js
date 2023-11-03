@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["changed_objects","checkpoint_sequence_number","input_objects","package_module_functions","package_modules","packages","payers","recipients","senders","star","transaction_digest","tx_sequence_number"]};

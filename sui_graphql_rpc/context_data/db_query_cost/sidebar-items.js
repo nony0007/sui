@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["_create_explain_query","extract_cost","raw_sql_string_values_set"]};

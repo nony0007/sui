@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"sui_move_build":[["impl TypingVisitorConstructor for <a class=\"struct\" href=\"sui_move_build/linters/collection_equality/struct.CollectionEqualityVisitor.html\" title=\"struct sui_move_build::linters::collection_equality::CollectionEqualityVisitor\">CollectionEqualityVisitor</a>"],["impl TypingVisitorConstructor for <a class=\"struct\" href=\"sui_move_build/linters/freeze_wrapped/struct.FreezeWrappedVisitor.html\" title=\"struct sui_move_build::linters::freeze_wrapped::FreezeWrappedVisitor\">FreezeWrappedVisitor</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

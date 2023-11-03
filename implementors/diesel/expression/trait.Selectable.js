@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"data_transform":[["impl&lt;__DB: Backend&gt; Selectable&lt;__DB&gt; for <a class=\"struct\" href=\"data_transform/models/struct.EventsJson.html\" title=\"struct data_transform::models::EventsJson\">EventsJson</a>"],["impl&lt;__DB: Backend&gt; Selectable&lt;__DB&gt; for <a class=\"struct\" href=\"data_transform/models/struct.Event.html\" title=\"struct data_transform::models::Event\">Event</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

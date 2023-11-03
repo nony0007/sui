@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["query_cost"],"mod":["active_addresses","address_metrics","addresses","checkpoints","display","epochs","events","move_call_metrics","move_calls","network_metrics","objects","packages","transactions","tx_calls","tx_changed_objects","tx_count_metrics","tx_indices","tx_input_objects","tx_recipients","tx_senders"]};
